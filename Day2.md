@@ -43,3 +43,22 @@ These pages include Web scripting code, such as PHP or ASP
  #### Main Difference
  Dynamic sites use server side languages to process requests at the time it’s made and generate a page and its contents in real-time. Static pages are pre-rendered, cached, and delivered to the user And websites integrated with databases powered by languages like Python, PHP, ASP, Ruby, Java, and more. This enabled sites to be dynamic, and display relevant content to the user based on a setting or input
  
+ ## Architecture 
+ ### Static Website
+ Static sites have consist of HTML, CSS, and Javascript that are delivered directly to the user’s browser
+ There is no computation involved in creating the page that will be transmitted to the user 
+ There is no database that needs to be queried to generate the page
+ ### Dynamic Website
+ Dynamic websites have a database, a server, some type of backend scripts, Javascript, HTML files and CSS files
+ Dynamic sites serve their data by using scripts to pull data from the database to create or combine with the HTML files that are delivered to the user's browser
+ 
+ # What I Have Understood Till Now Today
+ 1-Internet
+ 2-World Wide Web(WWW)
+ 3-Web
+ 4-Web Types
+ 5-Website
+ 6-Tyoes Of Websites
+ 7-Difference in Types Of Website
+ 8-Architecture
+ 
