@@ -58,7 +58,7 @@ These pages include Web scripting code, such as PHP or ASP
  3-Web
  4-Web Types
  5-Website
- 6-Tyoes Of Websites
+ 6-Types Of Websites
  7-Difference in Types Of Website
- 8-Architecture
+ 8-Architecture of websites
  
