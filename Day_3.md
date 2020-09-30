@@ -22,4 +22,18 @@ A computer worm is a type of malware that spreads copies of itself from computer
 
 - ### Phishing
 Phishing is a type of social engineering attack often used to steal user data including login credentials and credit card numbers
-<br>It occurs when an attacker masquerading as a trusted entity dupes a victim into opening an email instant message or text message
+<br>It occurs when an attacker masquerading as a trusted entity dupes a victim into opening an email instant message or text me
+
+# Web Designing
+For my first project i will go for a simple and fun website
+So i will start a Blog
+It will be a good design excersice 
+<br>i will build a showcase for my photography skills 
+<br>Creating a design to feature a passion of yours makes for an enjoyable first project.
+<br>- first get inspiration from others
+<br>-Create an inspiration doc with links to sites i love, or bookmark them 
+<br>-always has new and fresh look and a variety of themed collections 
+<br>-research differnet types of websites
+<br>-have content before u start
+<br>-keep my design simple and attractive
+<br>-give the final layout
