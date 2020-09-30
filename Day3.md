@@ -12,7 +12,7 @@ A Trojan horse or Trojan is a type of malware that is often disguised as legitim
 Trojans can be employed by cyber-thieves and hackers trying to gain access to users systems 
 Users are typically tricked by some form of social engineering into loading and executing Trojans on their systems
 
-### virus
+### Virus
 A computer virus is a type of malicious code or program written to alter the way a computer operates and is designed to spread from one computer to another 
 A virus operates by inserting or attaching itself to a legitimate program or document that supports macros in order to execute its code
 
