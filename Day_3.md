@@ -31,9 +31,9 @@ It will be a good design excersice
 <br>i will build a showcase for my photography skills 
 <br>Creating a design to feature a passion of yours makes for an enjoyable first project.
 <br>- first get inspiration from others
-<br>-Create an inspiration doc with links to sites i love, or bookmark them 
-<br>-always has new and fresh look and a variety of themed collections 
-<br>-research differnet types of websites
-<br>-have content before u start
-<br>-keep my design simple and attractive
-<br>-give the final layout
+<br>- Create an inspiration doc with links to sites i love, or bookmark them 
+<br>- always has new and fresh look and a variety of themed collections 
+<br>- research differnet types of websites
+<br>- have content before u start
+<br>- keep my design simple and attractive
+<br>- give the final layout
