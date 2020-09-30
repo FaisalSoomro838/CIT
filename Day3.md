@@ -1,7 +1,7 @@
 # Web Theart
 Web threats are malicious software programs such as spyware adware  trojan horse programs phishing viruses or worms etc
-that are installed on your computer without your knowledge or permission
-These programs utilize the Web to spread hide update themselves and send stolen data back to criminals
+<br>that are installed on your computer without your knowledge or permission
+<br>These programs utilize the Web to spread hide update themselves and send stolen data back to criminals
 
 ## Types Of Web Thearts
 ### Spam
